@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d48b31f.css",
+    "main.js": "/static/js/main.d97b243a.js",
+    "static/media/banner-of-site-2.jpg": "/static/media/banner-of-site-2.ec73bb6833d4f0ebd079.jpg",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.20240034b80f50c3ad00.ttf",
+    "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-Italic-VariableFont_wght.2f795353f413479428d6.ttf",
+    "static/media/background-skills.jpg": "/static/media/background-skills.bb8b0b3dbc937e8e712f.jpg",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/static/media/Quicksand-VariableFont_wght.b964ff93d9cb23e7f4c0.ttf",
+    "static/media/Saeedkahe.jpg": "/static/media/Saeedkahe.855da540e16ad3e55ed2.jpg",
+    "static/media/mywork8.jpg": "/static/media/mywork8.7af70218523dfe9f019c.jpg",
+    "static/media/mywork5.jpg": "/static/media/mywork5.67fadddc2c3b1bca0ccc.jpg",
+    "static/media/mywork1.jpg": "/static/media/mywork1.026e25dd5b0d7bf8a10f.jpg",
+    "static/media/mywork3.jpg": "/static/media/mywork3.94785fdf107102f61477.jpg",
+    "static/media/mywork6.jpg": "/static/media/mywork6.a01065e637bd108c5a7c.jpg",
+    "static/media/mywork7.jpg": "/static/media/mywork7.79310b92b2c362a1dcac.jpg",
+    "static/media/mywork4.jpg": "/static/media/mywork4.e920f6bca0eb92a6711a.jpg",
+    "index.html": "/index.html",
+    "main.1d48b31f.css.map": "/static/css/main.1d48b31f.css.map",
+    "main.d97b243a.js.map": "/static/js/main.d97b243a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d48b31f.css",
+    "static/js/main.d97b243a.js"
+  ]
+}
